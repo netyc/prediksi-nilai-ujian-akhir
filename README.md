@@ -36,33 +36,6 @@ Aplikasi ini sepenuhnya menggunakan HTML, CSS, dan JavaScript tanpa backend serv
 
 ---
 
-## Instalasi dan Menjalankan Proyek
-
-### Opsi 1: Jalankan Secara Lokal
-1. Clone repositori:
-```bash
-git clone https://github.com/zero0-sys/prediksi-nilai-ujian-akhir.git
-````
-
-2. Masuk ke folder proyek:
-
-```bash
-cd prediksi-nilai-ujian-akhir
-```
-
-3. Buka file `index.html` langsung di browser.
-
----
-
-### Opsi 2: GitHub Pages
-
-1. Push file `index.html` ke branch `main`.
-2. Masuk ke **Settings > Pages**.
-3. Pilih source dari branch `main`.
-4. Akses website melalui URL GitHub Pages yang tersedia.
-
----
-
 ## Cara Penggunaan
 
 1. Masukkan nama pengguna.
@@ -106,53 +79,3 @@ Rata-rata nilai dihitung dari seluruh mata pelajaran yang diprediksi dan digunak
 * Pesan hasil dapat diubah pada array `successMessages` dan `errorMessages` di dalam file `index.html`.
 * Tampilan dapat disesuaikan melalui bagian `<style>` di dalam file HTML.
 * Logika prediksi dapat dimodifikasi langsung pada script JavaScript jika diperlukan.
-
----
-
-## Kontribusi
-
-1. Fork repositori ini.
-2. Buat branch fitur baru:
-
-```bash
-git checkout -b feature-branch
-```
-
-3. Commit perubahan:
-
-```bash
-git commit -m "Menambahkan fitur baru"
-```
-
-4. Push ke branch:
-
-```bash
-git push origin feature-branch
-```
-
-5. Ajukan Pull Request.
-
----
-
-## Lisensi
-
-Free / Open Source
-
----
-
-## Ucapan Terima Kasih
-
-* Dibuat oleh: @naufalshdq
-* Terima kasih kepada seluruh kontributor dan penguji
-* Dukung pengembangan melalui:
-  [https://saweria.co/naufalshdq](https://saweria.co/naufalshdq)
-
----
-
-## Kontak
-
-Untuk pertanyaan, saran, atau kontribusi:
-
-* Email: [naufalmushaddiq@gmail.com](mailto:naufalmushaddiq@gmail.com)
-
-```
